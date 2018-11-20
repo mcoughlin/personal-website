@@ -1,0 +1,11 @@
++++
+title = "Limiting the effects of earthquakes on gravitational-wave interferometers"
+date = 2017-01-01
+authors = ["Michael Coughlin", "Paul Earle", "Jan Harms", "Sebastien Biscans", "Christopher Buchanan", "Eric Coughlin", "Fred Donovan", "Jeremy Fee", "Hunter Gabbard", "Michelle Guy", "Nikhil Mukund", "Matthew Perry"]
+publication_types = ["2"]
+abstract = "Ground-based gravitational wave interferometers such as the Laser Interferometer Gravitational-wave Observatory (LIGO) are susceptible to ground shaking from high-magnitude teleseismic events, which can interrupt their operation in science mode and significantly reduce their duty cycle. It can take several hours for a detector to stabilize enough to return to its nominal state for scientific observations. The down time can be reduced if advance warning of impending shaking is received and the impact is suppressed in the isolation system with the goal of maintaining stable operation even at the expense of increased instrumental noise. Here, we describe an early warning system for modern gravitational-wave observatories. The system relies on near real-time earthquake alerts provided by the U.S. Geological Survey (USGS) and the National Oceanic and Atmospheric Administration (NOAA). Preliminary low latency hypocenter and magnitude information is generally available in 5 to 20 min of a significant earthquake depending on its magnitude and location. The alerts are used to estimate arrival times and ground velocities at the gravitational-wave detectors. In general, 90% of the predictions for ground-motion amplitude are within a factor of 5 of measured values. The error in both arrival time and ground-motion prediction introduced by using preliminary, rather than final, hypocenter and magnitude information is minimal. By using a machine learning algorithm, we develop a prediction model that calculates the probability that a given earthquake will prevent a detector from taking data. Our initial results indicate that by using detector control configuration changes, we could prevent interruption of operation from 40 to 100 earthquake events in a 6-month time-period."
+selected = "false"
+publication = "*Classical and Quantum Gravity*"
+url_pdf = "http://stacks.iop.org/0264-9381/34/i=4/a=044004"
++++
+
