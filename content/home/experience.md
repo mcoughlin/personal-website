@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "David and Ellen Lee Prize Postdoctural Fellow"
+  title = "David and Ellen Lee Prize Postdoctoral Fellow"
   company = "Caltech"
   company_url = ""
   location = "Pasadena, California"

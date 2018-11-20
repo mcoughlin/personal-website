@@ -52,11 +52,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Michael Coughlin"
-  role = "David and Ellen Lee Prize Postdoctural Fellow"
+  role = "David and Ellen Lee Prize Postdoctoral Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Caltech", url = "" },{ name = "LSST", url = ""}, { name="LIGO", url=""} ]
+  organizations = [ { name = "Caltech", url = "" },{ name = "LSST", url = ""}, { name="LIGO", url=""}, { name="ZTF", url=""} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -199,7 +199,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]

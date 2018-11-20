@@ -34,4 +34,4 @@ weight = 5
 +++
 
 # Biography
-Michael Coughlin is a David and Ellen Lee Prize Postdoctural Fellow at Caltech.
+Michael Coughlin is a David and Ellen Lee Prize Postdoctoral Fellow at Caltech.
