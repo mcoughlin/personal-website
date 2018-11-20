@@ -1,0 +1,11 @@
++++
+title = "Going the Distance: Mapping Host Galaxies of LIGO and Virgo Sources in Three Dimensions Using Local Cosmography and Targeted Follow-up"
+date = 2016-01-01
+authors = ["Leo P. Singer", "Hsin-Yu Chen", "Daniel E. Holz", "Will M. Farr", "Larry R. Price", "Vivien Raymond", "S. Bradley Cenko", "Neil Gehrels", "John Cannizzo", "Mansi M. Kasliwal", "Samaya Nissanke", "Michael Coughlin", "Ben Farr", "Alex L. Urban", "Salvatore Vitale", "John Veitch", "Philip Graff", "Christopher P. L. Berry", "Satya Mohapatra", "Ilya Mandel"]
+publication_types = ["2"]
+abstract = "The Advanced Laser Interferometer Gravitational-wave Observatory (LIGO) discovered gravitational waves (GWs) from a binary black hole merger in 2015 September and may soon observe signals from neutron star mergers. There is considerable interest in searching for their faint and rapidly fading electromagnetic (EM) counterparts, though GW position uncertainties are as coarse as hundreds of square degrees. Because LIGO’s sensitivity to binary neutron stars is limited to the local universe, the area on the sky that must be searched could be reduced by weighting positions by mass, luminosity, or star formation in nearby galaxies. Since GW observations provide information about luminosity distance, combining the reconstructed volume with positions and redshifts of galaxies could reduce the area even more dramatically. A key missing ingredient has been a rapid GW parameter estimation algorithm that reconstructs the full distribution of sky location and distance. We demonstrate the first such algorithm, which takes under a minute, fast enough to enable immediate EM follow-up. By combining the three-dimensional posterior with a galaxy catalog, we can reduce the number of galaxies that could conceivably host the event by a factor of 1.4, the total exposure time for the Swift X-ray Telescope by a factor of 2, the total exposure time for a synoptic optical survey by a factor of 2, and the total exposure time for a narrow-field optical telescope by a factor of 3. This encourages us to suggest a new role for small field of view optical instruments in performing targeted searches of the most massive galaxies within the reconstructed volumes."
+selected = "false"
+publication = "*The Astrophysical Journal Letters*"
+url_pdf = "http://stacks.iop.org/2041-8205/829/i=1/a=L15"
++++
+
