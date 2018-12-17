@@ -29,7 +29,7 @@ date_format = "January 2006"
   description = """"""
 
 [[experience]]
-title = "Postdoctural Fellow"
+title = "Postdoctoral Fellow"
 company = "Harvard University"
 location = "Boston, MA"
 date_start = "2016-09-01"
