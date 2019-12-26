@@ -1,9 +1,10 @@
 +++
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
-widget = "publications"
+widget = "pages"
 active = true
 date = 2016-04-20T00:00:00
+headless = true
 
 title = "Recent Publications"
 subtitle = ""
@@ -11,8 +12,10 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 20
 
+[content]
 # Number of publications to list.
-count = 10
+count = 5
+page_type = "publication"
 
 # List format.
 #   0 = Simple
@@ -20,7 +23,7 @@ count = 10
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 4
+view = 4
 
 # Filter by publication type.
 # -1: Any

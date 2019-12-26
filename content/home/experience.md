@@ -2,6 +2,7 @@
 # Experience widget.
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
+headless = true
 
 title = "Research Positions"
 subtitle = ""
@@ -25,7 +26,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Pasadena, California"
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "2019-12-01"
   description = """"""
 
 [[experience]]
