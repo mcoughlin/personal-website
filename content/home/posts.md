@@ -1,21 +1,18 @@
 +++
 # Recent Posts widget.
 # This widget displays recent posts from `content/post/`.
-widget = "posts"
+widget = "pages"
 active = false
-date = 2016-04-20T00:00:00
+headless = true
+# Order that this section will appear in.
+weight = 40
 
 title = "Recent Posts"
 subtitle = ""
 
-# Order that this section will appear in.
-weight = 40
+[content]
+    page_type = "post"
 
-# Filter posts by tag.
-#  By default, show all recent posts.
-#  Filtering example: `tags_include = ["hugo", "academic"]`
-tags_include = []
-tags_exclude = []
 
 # Number of posts to list.
 count = 5
@@ -24,6 +21,7 @@ count = 5
 #   0 = Simple
 #   1 = Detailed
 #   2 = Stream
-list_format = 2
+[design]
+view = 2
 +++
 

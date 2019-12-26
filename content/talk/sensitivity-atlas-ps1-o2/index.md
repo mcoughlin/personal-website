@@ -1,12 +1,12 @@
 +++
 title = "On the sensitivity of ATLAS and PS1 followup of O2 LIGO events"
-date = 2018-11-19T18:16:12-07:00  # Schedule page publish date.
+publishDate = 2018-11-19T18:16:12-07:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-01-19T18:16:12-07:00
-time_end = 2018-01-19T19:16:12-07:00
+date = 2018-01-19T18:16:12-07:00
+date_end = 2018-01-19T19:16:12-07:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Michael Coughlin"]
@@ -23,7 +23,7 @@ event_url = ""
 location = "Oxon Hills, MD"
 
 # Is this a selected talk? (true/false)
-selected = true
+featured = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

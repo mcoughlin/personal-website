@@ -1,12 +1,12 @@
 +++
 title = "Limiting the eﬀects of earthquakes on gravitational-wave interferometers"
-date = 2018-11-19T18:24:50-07:00  # Schedule page publish date.
+publishDate = 2018-11-19T18:24:50-07:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2017-03-19T18:24:50-07:00
-time_end = 2017-03-19T19:24:50-07:00
+date = 2017-03-19T18:24:50-07:00
+date_end = 2017-03-19T19:24:50-07:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Michael Coughlin"]
@@ -23,7 +23,7 @@ event_url = ""
 location = "Pasadena, CA"
 
 # Is this a selected talk? (true/false)
-selected = true
+featured = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
