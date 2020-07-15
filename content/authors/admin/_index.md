@@ -1,5 +1,5 @@
 +++
-name = "Michael Coughlin"
+title = "Michael Coughlin"
 role = "Assistant Professor of Physics"
 authors = ["admin"]
 superuser = true
