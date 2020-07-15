@@ -8,6 +8,18 @@
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
+  # PLACE THESE PARAMS IN THE MAIN CONFIG SECTION (NOT UNDER ANY [SUBSECTION])
+   
+  # Show related content at the bottom of pages?
+  show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
+    
+  # Show a copyright license from creativecommons.org in the site footer?
+  # Page specific copyright licenses are also possible by adding this option to a page's front matter.
+  copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+    
+  # Highlight the site author (superuser) in author lists? (true/false)
+  highlight_superuser = false
+
   day_night = true
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
@@ -186,3 +198,13 @@ address_format = "en-us"
   en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
   en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
   zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
+
+# PLACE THIS NEW [CMS] CONFIG SECTION AT THE END OF THE FILE
+  
+############################
+## Content Management System
+############################
+[cms]
+ # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
+ netlify_cms = true
+ 

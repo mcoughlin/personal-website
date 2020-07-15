@@ -2,7 +2,7 @@
 # Recent Posts widget.
 # This widget displays recent posts from `content/post/`.
 widget = "pages"
-active = false
+active = true
 headless = true
 # Order that this section will appear in.
 weight = 40
