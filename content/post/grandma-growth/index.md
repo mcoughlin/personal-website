@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Grandma/Growth"
+title: "Multi-messenger Astronomy led by world-wide collaborations of astronomers"
 subtitle: ""
 summary: ""
 authors: ["admin"]
@@ -10,7 +10,7 @@ categories: []
 date: 2020-07-15T17:39:48-05:00
 lastmod: 2020-07-15T17:39:48-05:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -69,26 +69,9 @@ This collaboration is thus unique with this global initiative of citizen observe
 Encouraging more interaction on a global scale is a worthwhile initiative that is conducive to a better-equipped and more diverse workforce.
 O3 illustrated the huge potential for multi-messenger astronomy to vitalise sky observations and counterpart candidates, while also highlighting the need for training the next generation of astronomers in this new field and supporting them to jointly analyze data from these different messengers.
 
+You can read the papers here:
+* [GRANDMA (GRANDMA Observations of Advanced LIGO's and Advanced Virgo's Third Observational Campaign)](https://arxiv.org/abs/2004.04277/)
+* [GROWTH (Kilonova Luminosity Function Constraints based on Zwicky Transient Facility Searches for 13 Neutron Star Mergers
+)](https://arxiv.org/abs/2006.11306/)
 
-## The conversation pitch
 
-1. Story (In one or two sentences, what's your story? (50 word limit))
-
-    The end of the third observing run of the gravitational-wave detectors, LIGO and Virgo, brought new discoveries of astronomical objects, including the merging of black holes and neutron stars.
-    World-wide collaborations sought electromagnetic counterparts to these sources; although none were found, technological and sociological innovations are driving the field’s future.
-
-2. Significance* (Why is it interesting or significant for non-academic readers? (100 word limit))
-
-    Multi-messenger astronomy is driven by the idea that looking at a problem from multiple perspectives yields a complete picture in a way not possible with just one method.
-    LIGO and Virgo sent more than 80 public alerts to the public notifying them of these events, often within minutes of the detection.
-    To address the challenge of finding the sources, multiple telescopes as part of coordinated global networks have arisen for the purpose of identifying and characterising counterparts.
-    In addition, citizen science programs have been put together to allow non-professional astronomers to contribute their observational capabilities to this effort.
-
-3. Other key points (Why is this a good time to do this article? What is your expertise in the subject? (150 word limit)
-    
-    The third observing run (O3) of LIGO and Virgo has just finished; it was split into two parts to allow for a break to work on the interferometers: O3a (2019 April -- 2019 September) and O3b (2019 November -- 2020 March 27, ending more than a month earlier than planned because of the COVID-19 pandemic).
-    O3 illustrated the huge potential for multi-messenger astronomy to vitalise sky observations and counterpart candidates, while also highlighting the need for training the next generation of astronomers in this new field and supporting them to jointly analyze data from these different messengers.
-    Therefore, it is very timely. 
-
-I am part of two of these world-wide collaborations leading the scheduling efforts for them both.
-I would expect to discuss the challenges and innovations these collaborations have experienced as groups of people world-wide come together to address the biggest puzzle in astronomy right now.
